@@ -1,0 +1,74 @@
+#grey{
+    background-color: grey;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    padding: 10px;
+    
+}
+
+#white{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    padding: 10px;
+}
+
+#blue{
+    background-color: lightskyblue;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    padding: 10px;
+}
+  
+
+
+#yellow{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    padding: 10px;
+}
+
+#pink{
+    background-color:pink;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    padding: 10px;
+}
+
+#red{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    padding: 10px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    height: 400px;
+    justify-content: center;
+    margin:10px;
+    padding: 10px;
+    
+}
+
+#heading-one{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 10px 18px 5px rgb(163, 156, 156);
+
+}
+
+#para-one{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+}
+  
